@@ -4,21 +4,21 @@ It is the clone of Placement Portal which is fully functional. It is a web appli
 
 Student :
 
-Browse and search job listings
-Create and manage a profile
-Submit applications to desired positions
+1) Browse and search job listings.
+2) Create and manage a profile
+3) Submit applications to desired positions
 
 Company :
 
-Create and manage a company profile
-Post job openings
-Review and manage applicant profiles
+1) Create and manage a company profile
+2) Post job openings
+3) Review and manage applicant profiles
 
 TPC Admin :
 
-Verify compaines
-Verify students
+1) Verify compaines
+2) Verify students
 
 System Admin :
 
-Can run sql queries.
+1) Can run sql queries.
